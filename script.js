@@ -1,5 +1,4 @@
 //git commit change test
-// tarpeeton
 
 
 const imageContainer = document.getElementById("image-container");
